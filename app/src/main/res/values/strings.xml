@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Discover the nation of Morocco, land of the sunset where your dreams end in the depth of seas discover this nation with us</string>
+    <string name="discription">Here in Morrocco we have the best zlayjiya in the world.</string>
+</resources>
